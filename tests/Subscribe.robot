@@ -17,7 +17,7 @@ Scenario: Subscribe
     Then Page Should Contain  
     ...  Your account is almost ready. First we need to confirm your email
     ...  address, for that we sent an email with instructions to
-            
+
 
 *** Keywords ***
 I Open Browser at Home Page
