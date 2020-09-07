@@ -1,0 +1,6 @@
+robotframework
+RESTinstance
+pyyaml
+robotframework-seleniumlibrary
+webdrivermanager
+robotframework-pageobjectlibrary
